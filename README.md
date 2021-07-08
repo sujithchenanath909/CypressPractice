@@ -1,2 +1,2 @@
 # CypressPractice
-Project created for practicing cypress automation on various websites and elements
+Project created for trying out cypress automation on various websites and elements
